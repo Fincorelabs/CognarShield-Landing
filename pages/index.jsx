@@ -5,7 +5,14 @@ export default function Home() {
     <div className="min-h-screen bg-[#0A192F] text-white font-sans">
       <Head>
         <title>Cognar Shield™</title>
-        <meta name="description" content="Ative seu escudo cognitivo com o Cognar Shield." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
+        <meta property="og:title" content="Cognar Shield™ – Escudo Cognitivo Digital" />
+        <meta property="og:description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
+        <meta property="og:image" content="/og-image.jpg" />
+        <meta property="og:url" content="https://cognarshield-ai.vercel.app/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="flex flex-col items-center justify-center px-6 py-20 text-center">
@@ -26,10 +33,22 @@ export default function Home() {
         >
           Ativar Cognar Shield
         </a>
+
+        {/* Bloco institucional */}
+        <section className="max-w-3xl mx-auto mt-20 text-gray-400 text-sm text-center px-6">
+          <p>
+            Cognar Shield™ é uma arquitetura cognitiva experimental de uso pessoal.<br />
+            Nosso propósito é proteger e expandir a mente criativa frente à sobrecarga digital, ruído social e dopamina sintética.<br />
+            Nenhum dado do usuário é coletado. Nenhum protocolo é obrigatório. Você é o sistema.
+          </p>
+        </section>
       </main>
 
       <footer className="py-10 text-center text-sm text-gray-500">
-        Cognar Shield™ • Cognitive Defense System • 2025
+        Cognar Shield™ • Cognitive Defense System • 2025<br />
+        <a href="https://cognar.gumroad.com/l/feeyo" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">Assinar</a> |
+        <a href="https://notion.so" className="ml-2 underline hover:text-white">Sobre</a> |
+        <a href="#" className="ml-2 underline hover:text-white">Política de Uso</a>
       </footer>
     </div>
   );
