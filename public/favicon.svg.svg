@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0A192F"/>
+  <path d="M32 6L12 16v16c0 15.36 14.66 22.94 19.22 24.94a2 2 0 001.56 0C37.34 54.94 52 47.36 52 32V16L32 6z" fill="#00FFE0"/>
+  <text x="32" y="40" text-anchor="middle" font-size="20" fill="#0A192F" font-family="Arial, sans-serif">CS</text>
+</svg>
