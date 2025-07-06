@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cognar-shield-landing.vercel.app/sitemap.xml
