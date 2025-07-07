@@ -11,7 +11,7 @@ export default function Home() {
   {/* Open Graph */}
   <meta property="og:title" content="Cognar Shield™ – Escudo Cognitivo Digital" />
   <meta property="og:description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
-  <meta property="og:image" content="https://cognar-shield-landing.vercel.app/og-image.jpg" />
+ <meta property="og:image" content="https://cognar-shield-landing.vercel.app/og-image.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:url" content="https://cognar-shield-landing.vercel.app/" />
