@@ -4,7 +4,6 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#0A192F] text-white font-sans">
       <Head>
-       <Head>
   <title>Cognar Shield™ – Escudo Cognitivo Digital</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
@@ -25,7 +24,6 @@ export default function Home() {
   <meta name="twitter:image" content="https://cognar-shield-landing.vercel.app/og-image.jpg" />
 
   <link rel="icon" href="/favicon.ico" />
-</Head>
 
       </Head>
 
