@@ -4,14 +4,15 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[#0A192F] text-white font-sans">
       <Head>
-       <title>Cognar Shield™ – Escudo Cognitivo Digital</title>
+       <Head>
+  <title>Cognar Shield™ – Escudo Cognitivo Digital</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
   
   {/* Open Graph */}
   <meta property="og:title" content="Cognar Shield™ – Escudo Cognitivo Digital" />
   <meta property="og:description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
-  <meta property="og:image" content="/og-image.jpg" />
+  <meta property="og:image" content="https://cognar-shield-landing.vercel.app/og-image.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:url" content="https://cognar-shield-landing.vercel.app/" />
@@ -21,9 +22,11 @@ export default function Home() {
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Cognar Shield™ – Escudo Cognitivo Digital" />
   <meta name="twitter:description" content="Ative seu escudo cognitivo: áudio binaural, filtro de dopamina, IA mentora e ritual diário." />
-  <meta name="twitter:image" content="/og-image.jpg" />
+  <meta name="twitter:image" content="https://cognar-shield-landing.vercel.app/og-image.jpg" />
 
   <link rel="icon" href="/favicon.ico" />
+</Head>
+
       </Head>
 
       <main className="flex flex-col items-center justify-center px-6 py-20 text-center">
