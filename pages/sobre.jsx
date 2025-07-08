@@ -14,6 +14,9 @@ export default function Sobre() {
       <p>
         Cognar Shield™ é acessado via navegador, sem necessidade de instalação de aplicativos ou permissões. Seu uso é destinado a criadores, investidores, operadores e todos que desejam manter-se mentalmente blindados diante da sobrecarga informacional moderna.
       </p>
+<footer className="mt-10 text-center text-gray-600 text-sm">
+        Cognar Shield™ • Cognitive Defense System • 2025
+      </footer>
     </main>
   );
 }
