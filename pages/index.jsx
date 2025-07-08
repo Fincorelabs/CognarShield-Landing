@@ -58,7 +58,7 @@ export default function Home() {
 
       <footer className="py-10 text-center text-sm text-gray-500">
         Cognar Shield™ • Cognitive Defense System • 2025<br />
-        <a href="https://cognar.gumroad.com/l/feeyo" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">Assinar</a> |
+        <a href="https://checkout4.xgrow.com/pt/fc553462-5436-4be6-add3-f10e22f49ea8/OTI4MzA=" target="_blank" rel="noopener noreferrer" className="underline hover:text-white">Assinar</a> |
         <a href="https://notion.so" className="ml-2 underline hover:text-white">Sobre</a> |
         <a href="#" className="ml-2 underline hover:text-white">Política de Uso</a>
       </footer>
