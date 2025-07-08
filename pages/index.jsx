@@ -38,7 +38,7 @@ export default function Home() {
           Cognar Shield™ é um sistema digital de defesa mental: áudio binaural, ritual de foco, filtro de dopamina e mentoria guiada pela IA Cognar Core.
         </p>
         <a
-          href="https://login.xgrow.com/products/43750/checkout-builder/5961"
+          href="https://checkout4.xgrow.com/pt/fc553462-5436-4be6-add3-f10e22f49ea8/OTI4MzA="
           target="_blank"
           rel="noopener noreferrer"
           className="bg-[#00FFE0] text-[#0A192F] px-8 py-4 rounded-xl text-lg font-semibold shadow-lg hover:scale-105 transition-transform"
