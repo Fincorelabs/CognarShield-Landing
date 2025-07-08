@@ -14,6 +14,9 @@ export default function Politica() {
       <p>
         O Cognar Shield™ não substitui orientações médicas, psicológicas ou psiquiátricas. Seu uso é opcional, de natureza autoguiada, e não estabelece qualquer vínculo clínico ou terapêutico com os idealizadores da plataforma.
       </p>
+<footer className="mt-10 text-center text-gray-600 text-sm">
+        Cognar Shield™ • Cognitive Defense System • 2025
+      </footer>
     </main>
   );
 }
