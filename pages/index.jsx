@@ -59,7 +59,7 @@ export default function Home() {
      <footer className="text-center text-gray-500 text-sm mt-16 pb-10">
   Cognar Shield™ • Cognitive Defense System • 2025
   <br />
-  <a href="/assinar" className="underline mx-2">Assinar</a>|
+  <a  href="https://checkout..." target="_blank" rel="noopener noreferrer">Assinar</a>|
   <a href="/sobre" className="underline mx-2">Sobre</a>|
   <a href="/politica" className="underline mx-2">Política de Uso</a>
 </footer>
